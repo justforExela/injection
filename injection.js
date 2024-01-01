@@ -12,7 +12,7 @@ const config = {
   ping_on_run: true, 
   ping_val: '@everyone', 
   embed_name: 'Exela Injection', 
-  embed_icon: 'https://media.discordapp.net/attachments/1133692440029700117/1140245373496074270/195198d656ec1e2b59a6a823bb250272.jpg?width=489&height=468', 
+  embed_icon: 'https://i.hizliresim.com/6t31tw2.jpg', 
   embed_color: 0, 
   injection_url: 'https://raw.githubusercontent.com/quicaxd/Exela-V2.0/main/injection/injection.js', 
 
